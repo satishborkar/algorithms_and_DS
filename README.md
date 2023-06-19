@@ -2,10 +2,16 @@
 
 - How Data Structure varies from Data Type?
 - Classification of Data Structure
-  - Linear Data Structure
-    - Static data structure
-    - Dynamic data structure
-  - Non-linear Data Structure
+  - Linear Data Structures
+    - Static Data Structures
+      - Array
+    - Dynamic Data Structures
+      - Queue
+      - Stack
+      - Linked List
+  - Non-Linear Data Structures
+    - Tree
+    - Graph
 - **`Arrays`**
 
   - Characteristics of an Array
